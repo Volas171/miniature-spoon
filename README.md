@@ -1,6 +1,5 @@
 # miniature-spoon
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/volas171/miniature-spoon)
-n/
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/volas171/miniature-spoon)/n
 nothing just useless code
 smh
 
