@@ -1,5 +1,4 @@
 # miniature-spoon
-![Test](https://github.com/Volas171/miniature-spoon/workflows/Test/badge.svg)
 nothing just useless code
 smh
 
